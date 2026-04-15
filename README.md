@@ -2,7 +2,7 @@
 
 A running record of what I'm actually working on. Dates, what shipped, what got figured out, what got decided. Proof of work.
 
-I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed browser automation infrastructure for AI agents), founder of [Built for Devs](https://builtfor.dev) (developer adoption intelligence platform), and builder of [Selah](https://selah.laravel.cloud), a faith-rooted homeschool management platform I made for my own family.
+I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed browser automation infrastructure for AI agents), founder of [Built for Devs](https://builtfor.dev) (developer adoption intelligence platform), and builder of [Selah](https://selahlearn.com), a faith-rooted homeschool management platform I made for my own family.
 
 ---
 
@@ -99,7 +99,7 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 ### April 6
 `rival` `selah` `code`
 
-**Selah:** Full Resources UI shipped—selection management across subjects and learning layers, a catalog browser with subject/layer/style/faith-based/trial filters, add/edit modal for both catalog and custom resources, student learning profile fields, and career direction gating for grade 7+. 16 feature tests, 68 assertions. Bug fixes and review cleanup alongside it.
+**[Selah](https://selahlearn.com):** Full Resources UI shipped—selection management across subjects and learning layers, a catalog browser with subject/layer/style/faith-based/trial filters, add/edit modal for both catalog and custom resources, student learning profile fields, and career direction gating for grade 7+. 16 feature tests, 68 assertions. Bug fixes and review cleanup alongside it.
 
 **Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Serialization bug fix in error handling.
 
@@ -108,14 +108,14 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 ### April 5
 `selah` `code`
 
-**Selah:** Running until well after midnight. The resource intelligence system landed—MCP-driven resource recommendations, set-resource-selection tool with undo support and atomic audit logging, primary demotion rollback on undo, and full household scoping hardened throughout. Subject resource links migrated from a JSON column to a proper relational table. Notification scope bug fixed. Agent workflow documentation updated.
+**[Selah](https://selahlearn.com):** Running until well after midnight. The resource intelligence system landed—MCP-driven resource recommendations, set-resource-selection tool with undo support and atomic audit logging, primary demotion rollback on undo, and full household scoping hardened throughout. Subject resource links migrated from a JSON column to a proper relational table. Notification scope bug fixed. Agent workflow documentation updated.
 
 ---
 
 ### April 4
 `selah` `rival` `code`
 
-**Selah:** Multiple review rounds closing out the resource intelligence and subject resource links PRs. MCP OAuth issue tracked down and fixed—two separate root causes, both resolved.
+**[Selah](https://selahlearn.com):** Multiple review rounds closing out the resource intelligence and subject resource links PRs. MCP OAuth issue tracked down and fixed—two separate root causes, both resolved.
 
 **Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Tabstack integration libraries shipped—diff summaries, SSE stream handling, Deep Dive modes, and page-type schemas. CI split into parallel checks. Codebase audit merged.
 
@@ -128,7 +128,7 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 
 **Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Initial Tabstack integration library implementations.
 
-**Selah:** Subject resource links relational table work underway.
+**[Selah](https://selahlearn.com):** Subject resource links relational table work underway.
 
 ---
 
@@ -148,7 +148,7 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 
 **Built for Devs:** DevRel Playbook fully distributed. HN submission live. Identified Reddit auto-removal happening due to karma thresholds.
 
-**Selah:** Finishing subject resource links work late night.
+**[Selah](https://selahlearn.com):** Finishing subject resource links work late night.
 
 ---
 
@@ -157,7 +157,7 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 
 **Built for Devs:** Customer call. Heavy post-launch follow-through messaging.
 
-**Selah:** Diagnosed a notification bug and filed a new feature issue.
+**[Selah](https://selahlearn.com):** Diagnosed a notification bug and filed a new feature issue.
 
 **Homeschool:** Finalized a health plan and flagged some placeholder content to fix.
 
@@ -166,7 +166,7 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 ### March 29
 `built-for-devs` `selah` `code`
 
-**Selah:** Resource library data model work.
+**[Selah](https://selahlearn.com):** Resource library data model work.
 
 **Built for Devs:** Sessions tracked through the day.
 
@@ -175,7 +175,7 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 ### March 28
 `selah` `code`
 
-**Selah:** Big shipping day. Resource library, evidence portfolio, spaced repetition UI, mobile-first parent layout, iCal feed, IXL PDF import, in-app notifications, TEKS grade normalization, and removal of the inline AI assist in favor of the MCP chatbot approach.
+**[Selah](https://selahlearn.com):** Big shipping day. Resource library, evidence portfolio, spaced repetition UI, mobile-first parent layout, iCal feed, IXL PDF import, in-app notifications, TEKS grade normalization, and removal of the inline AI assist in favor of the MCP chatbot approach.
 
 ---
 
@@ -184,14 +184,14 @@ Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](ht
 
 **Built for Devs:** Afternoon messaging and product work.
 
-**Selah:** Late evening—kicked off the big multi-PR sprint. Notifications, mobile layout, AI assist removal, TEKS normalization, student PIN hardening, all landing that night.
+**[Selah](https://selahlearn.com):** Late evening—kicked off the big multi-PR sprint. Notifications, mobile layout, AI assist removal, TEKS normalization, student PIN hardening, all landing that night.
 
 ---
 
 ### March 26
 `selah` `built-for-devs` `homeschool` `code` `strategy`
 
-**Selah:** Homepage features section designed. Student progress review via MCP. Looked into whether a student was using AI to do their work—flagged one item for follow-up. Resource library and onboarding architecture decisions locked—7-step onboarding wizard, AI planning assistant for paid plans, assistant-proposes/parent-approves as the core principle.
+**[Selah](https://selahlearn.com):** Homepage features section designed. Student progress review via MCP. Looked into whether a student was using AI to do their work—flagged one item for follow-up. Resource library and onboarding architecture decisions locked—7-step onboarding wizard, AI planning assistant for paid plans, assistant-proposes/parent-approves as the core principle.
 
 **HuggingFace:** Migrated the Texas TEKS dataset to the Selah org and improved discoverability.
 
@@ -202,7 +202,7 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 ### March 25
 `selah` `built-for-devs` `homeschool` `code`
 
-**Selah:** Diagnosed the broken Student Help feature and filed a batch of issues to fix it. Key architecture decisions locked around student journals and the parent-approval model.
+**[Selah](https://selahlearn.com):** Diagnosed the broken Student Help feature and filed a batch of issues to fix it. Key architecture decisions locked around student journals and the parent-approval model.
 
 **Built for Devs:** Audited the Developer Adoption Score approach and identified gaps to fix.
 
@@ -243,7 +243,7 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 ### March 18
 `selah` `built-for-devs` `homeschool` `code`
 
-**Selah:** AI features, billing, marketing homepage, attendance log, transcript import, user guide rewrite, student help chat, timezone fixes, nav reorganization—all landed. Used Selah MCP to draft 2026 annual curriculum plans for the kids.
+**[Selah](https://selahlearn.com):** AI features, billing, marketing homepage, attendance log, transcript import, user guide rewrite, student help chat, timezone fixes, nav reorganization—all landed. Used Selah MCP to draft 2026 annual curriculum plans for the kids.
 
 **Built for Devs:** DevRel Playbook social content drafted, published to the website, Stripe set up. 30-60-90-365 strategic plan drafted.
 
@@ -252,7 +252,7 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 ### March 17
 `selah` `built-for-devs` `code`
 
-**Selah:** Agent docs updated, mobile layout fixes, marketing messaging drafted, homepage launch announcement written. Student help tutor prompt loosened, student journal, parent journal view, timezone and MCP fixes.
+**[Selah](https://selahlearn.com):** Agent docs updated, mobile layout fixes, marketing messaging drafted, homepage launch announcement written. Student help tutor prompt loosened, student journal, parent journal view, timezone and MCP fixes.
 
 **Built for Devs:** Final pre-launch work alongside the Selah sprint.
 
@@ -263,7 +263,7 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 
 **LinkedIn:** Profile audit complete—headline rewrite, About section reordered, Built for Devs and Devocate entries updated. Featured section planned, 15 post ideas queued.
 
-**Selah:** Standards fixes, curriculum plan delete, MCP tools, IXL and Khan Academy integrations, preschool mode, library card credentials, nav reorganization, data migrations, and the student-facing homework help chat feature built.
+**[Selah](https://selahlearn.com):** Standards fixes, curriculum plan delete, MCP tools, IXL and Khan Academy integrations, preschool mode, library card credentials, nav reorganization, data migrations, and the student-facing homework help chat feature built.
 
 **Homeschool:** Curriculum plans drafted for multiple students via Selah MCP.
 
@@ -272,14 +272,14 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 ### March 14
 `selah` `code`
 
-**Selah:** Day-long sprint—settings, MCP tool expansion, grade-banded subjects, TEKS standards seeding, annual planning tools, and several bug fixes. Environment setup was a slog—persistent local server errors fought across the afternoon and evening before landing clean.
+**[Selah](https://selahlearn.com):** Day-long sprint—settings, MCP tool expansion, grade-banded subjects, TEKS standards seeding, annual planning tools, and several bug fixes. Environment setup was a slog—persistent local server errors fought across the afternoon and evening before landing clean.
 
 ---
 
 ### March 13
 `selah` `code`
 
-**Selah:** The earliest commits. Library checkout list, annual planning, student work-ahead navigation, a login bug fix, AI settings page, and a student dashboard data fix. Spent the better part of the day fighting environment setup issues before shipping started.
+**[Selah](https://selahlearn.com):** The earliest commits. Library checkout list, annual planning, student work-ahead navigation, a login bug fix, AI settings page, and a student dashboard data fix. Spent the better part of the day fighting environment setup issues before shipping started.
 
 ---
 
@@ -401,7 +401,7 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 
 **Laravel Skills:** Mobile spacing fix.
 
-**Selah:** Early architecture and environment work in the evening.
+**[Selah](https://selahlearn.com):** Early architecture and environment work in the evening.
 
 ---
 
@@ -412,7 +412,7 @@ Explored a conceptual redesign of version control for AI agent workflows—named
 
 Post-event results: 5,100 YouTube views, 1,134 watch hours, 179 peak concurrent viewers, 691 HubSpot leads, 2,800 dub.co clicks, 397 LinkedIn engagements across three posts.
 
-**Selah:** Early concept brainstorming in the final stretch of the day.
+**[Selah](https://selahlearn.com):** Early concept brainstorming in the final stretch of the day.
 
 ---
 
@@ -473,7 +473,7 @@ Exploratory interview for a Senior Director, Developer Product Marketing role—
 
 **Laravel:** Daily sync. Weekly DX review covering Laravel Cloud feedback and Laravel Skills progress. Laravel Boost installed, skills directory and feed consolidated onto a single homepage, search and filter UX polished. Devlog and social media content written.
 
-**Selah:** Published the Texas TEKS standards dataset to HuggingFace—real TEA CASE API data replacing the AI-generated placeholder records that had been causing bugs in onboarding.
+**[Selah](https://selahlearn.com):** Published the Texas TEKS standards dataset to HuggingFace—real TEA CASE API data replacing the AI-generated placeholder records that had been causing bugs in onboarding.
 
 ---
 
