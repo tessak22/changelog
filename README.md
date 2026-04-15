@@ -41,49 +41,49 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 ### April 12
 `tabstack` `quiver` `rival` `built-for-devs` `code`
 
-**Quiver** (Tabstack project): Full codebase audit merged—security hardening, optimization, and traceability work. Remote MCP HTTP endpoint added. Bulk artifact actions shipped. Docs, spec, and in-app help updated.
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Full codebase audit merged—security hardening, optimization, and traceability across the whole app. Remote MCP HTTP endpoint added so the agent layer can reach the app without local setup. Bulk artifact actions shipped. Docs, spec, and in-app help updated.
 
-**Rival:** Profile schema expanded with ICP and audience intelligence fields. Homepage added as a first-class scan page type. Test coverage gaps closed. Production README and seed tooling improvements.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Profile schema expanded with ICP and audience intelligence fields. Homepage added as a first-class scan page type. Test coverage gaps closed. Production README and seed tooling improvements.
 
-**DevRel Growth Advisor** (`tessak22/devrel-growth-advisor`): Published a new agent skill—a DevRel Growth Advisor with six reference frameworks and a prompt library.
+**DevRel Growth Advisor** ([tessak22/devrel-growth-advisor](https://github.com/tessak22/devrel-growth-advisor)): Published an open-source agent skill—a DevRel Growth Advisor with six reference frameworks and a prompt library for developer adoption work.
 
-Got the Rize MCP integration working end-to-end. Created `tessak22/changelog`.
+Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](https://github.com/tessak22/changelog).
 
 ---
 
 ### April 11
 `tabstack` `quiver` `rival` `code`
 
-**Quiver** (Tabstack project): Customer research and content layers shipped. Dark mode added. Onboarding lockout bug fixed. Build issues resolved.
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Quiver v1 shipped—full AI marketing command center. Auth, onboarding wizard, context editor with versioning and AI-proposed update review, five AI session modes with skill injection and SSE streaming, artifact library with status workflow and version history, campaign management, performance logging with AI synthesis, dashboard with close-the-loop queue, and team settings. 69 tests, 35 marketing skill frameworks, TypeScript strict mode, five rounds of code review. Immediately after v1 merged: v1.1 landed with 13 more features including context export, performance CSV export, read-only session share links, campaign reference links, AI review mode before saving context changes, and 33 new tests. Then the full MCP server shipped—all 23 Quiver tools exposed for use with Claude, Cursor, and other MCP-compatible clients, with AI synthesis extracted to a shared core. Customer research layer added—VoC quote library, AI-powered analysis, hypothesis tracking. Content layer added—markdown storage, SEO/OG metadata, distribution tracking, metric snapshots, public API, and calendar view. 71 new tests, 13 new MCP tools. Build issues and onboarding lockout bug resolved. Dark mode shipped.
 
-**Rival:** Profile intelligence, homepage scanning, test coverage, production docs, and seed tooling all shipped.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Blog and reviews scan page types added—blog extracts content strategy and topic signals, reviews extracts complaint themes that map directly to competitor weaknesses. Deep Dive prompt templates shipped with three pre-built modes: Messaging & Positioning, Developer Sentiment, and Recent Strategic Moves. Homepage scan type added with messaging and positioning schema, automate fallback, and diff-highlighted change detection. Profile schema expanded with ICP and audience intelligence fields. Production README and seed tooling shipped. Test coverage gaps closed across brief, demo route, and SSE utility.
 
 ---
 
 ### April 10
-`tabstack` `quiver` `rival` `built-for-devs` `meetings` `code` `strategy`
+`tabstack` `quiver` `rival` `meetings` `code` `strategy`
 
-**Tabstack:** Full meeting day—calls including a Product Hunt strategy session and several internal syncs. Competitor research and GTM strategy docs throughout.
+**Tabstack:** Six meetings—a Product Hunt strategy session, a user research overview, an intro call, a weekly 1:1 with manager, an external call, and a GTM strategy sync. Competitor landscape research, messaging framework development, and go-to-market sequencing work between sessions.
 
-**Quiver** (Tabstack project) had a big shipping day in parallel—demo route, Deep Dive UI, API Insights, dashboard, API routes, data layer, and scanner orchestration.
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Big shipping day in parallel—demo route, Deep Dive UI, API Insights, dashboard, API routes, data layer, and scanner orchestration all landed.
 
-**Rival:** Pull request reviews across several features.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Agent working through PR review feedback.
 
 ---
 
 ### April 9
 `tabstack` `rival` `meetings` `strategy`
 
-**Tabstack:** Heavy meeting day—five back-to-back through the afternoon. Competitor landscape research, messaging framework development, and Q2 GTM planning alongside it.
+**Tabstack:** Five meetings—a new hire onboarding session, standup, an all-hands product demo day, a customer research strategy sync, and a fireside chat. Competitor landscape research, messaging framework development, and Q2 GTM planning between sessions.
 
-**Rival:** Agent working through review feedback in parallel.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Agent working through PR feedback in parallel.
 
 ---
 
 ### April 8
 `tabstack` `meetings` `strategy`
 
-**Tabstack:** Four meetings through the day. CRM and Airtable setup—organizing customer records and interview targets.
+**Tabstack:** Meetings through the day. CRM and Airtable setup—organizing customer records and interview targets. Competitor landscape research and go-to-market sequencing work.
 
 ---
 
@@ -97,25 +97,25 @@ Got the Rize MCP integration working end-to-end. Created `tessak22/changelog`.
 ### April 6
 `rival` `selah` `code`
 
-**Selah:** Resources UI shipped—browsing, filtering, and gap visibility. A couple of bug fixes alongside it.
+**Selah:** Full Resources UI shipped—selection management across subjects and learning layers, a catalog browser with subject/layer/style/faith-based/trial filters, add/edit modal for both catalog and custom resources, student learning profile fields, and career direction gating for grade 7+. 16 feature tests, 68 assertions. Bug fixes and review cleanup alongside it.
 
-**Rival:** Serialization bug fix in error handling.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Serialization bug fix in error handling.
 
 ---
 
 ### April 5
 `selah` `code`
 
-**Selah:** Running until well after midnight. Big sprint—resource intelligence system, subject resource links, notification bug fix, security tests, codebase health audit, and agent workflow updates all merged.
+**Selah:** Running until well after midnight. The resource intelligence system landed—MCP-driven resource recommendations, set-resource-selection tool with undo support and atomic audit logging, primary demotion rollback on undo, and full household scoping hardened throughout. Subject resource links migrated from a JSON column to a proper relational table. Notification scope bug fixed. Agent workflow documentation updated.
 
 ---
 
 ### April 4
 `selah` `rival` `code`
 
-**Selah:** Tracked down and fixed the MCP OAuth issue—two separate root causes, both resolved. Multiple review rounds.
+**Selah:** Multiple review rounds closing out the resource intelligence and subject resource links PRs. MCP OAuth issue tracked down and fixed—two separate root causes, both resolved.
 
-**Rival:** Tabstack integration libraries shipped—diff summaries, SSE stream handling, Deep Dive modes, and page-type schemas. CI split into parallel checks. Codebase audit merged.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Tabstack integration libraries shipped—diff summaries, SSE stream handling, Deep Dive modes, and page-type schemas. CI split into parallel checks. Codebase audit merged.
 
 ---
 
@@ -124,9 +124,9 @@ Got the Rize MCP integration working end-to-end. Created `tessak22/changelog`.
 
 **Pre-hire prep:** LinkedIn Tabstack experience entry written and iterated ahead of day one.
 
-**Rival:** Initial Tabstack integration library implementations.
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Initial Tabstack integration library implementations.
 
-**Selah:** Started the subject resource links relational table work.
+**Selah:** Subject resource links relational table work underway.
 
 ---
 
