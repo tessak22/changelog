@@ -41,11 +41,13 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 ### April 12
 `tabstack` `quiver` `rival` `built-for-devs` `code`
 
+**tessakriesel.com:** Built a full custom Ghost v6 theme from scratch—terminal aesthetic with VT323 and JetBrains Mono fonts, scanline overlay, ASCII easter egg, 27 theme files across 5 phases. Homepage with six sections (hero, currently, writing, speaking, about, subscribe). Post and page templates, speaking history feed with year filters, projects page, changelog page with git log styling, wall of love, contact, and a custom 404. Deployed to Fly.io on Ghost v6 with SQLite on a persistent volume. Built a GitHub changelog import script that pulls from tessak22/changelog, parses the markdown structure, converts to Ghost HTML, and uploads via Admin API with per-project color-coded tags.
+
 **Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Full codebase audit merged—security hardening, optimization, and traceability across the whole app. Remote MCP HTTP endpoint added so the agent layer can reach the app without local setup. Bulk artifact actions shipped. Docs, spec, and in-app help updated.
 
 **Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Profile schema expanded with ICP and audience intelligence fields. Homepage added as a first-class scan page type. Test coverage gaps closed. Production README and seed tooling improvements.
 
-**DevRel Growth Advisor** ([tessak22/devrel-growth-advisor](https://github.com/tessak22/devrel-growth-advisor)): Published an open-source agent skill—a DevRel Growth Advisor with six reference frameworks and a prompt library for developer adoption work.
+**DevRel Growth Advisor** ([tessak22/devrel-growth-advisor](https://github.com/tessak22/devrel-growth-advisor)): Published an open-source agent skill—a DevRel Growth Advisor with six reference frameworks (journey, metrics, feedback, content, competitive, team) and a prompt library. Polished the README and framework files throughout the day.
 
 Got the Rize MCP integration working end-to-end. Created [tessak22/changelog](https://github.com/tessak22/changelog).
 
