@@ -12,6 +12,32 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 
 ## April 2026
 
+### April 14
+`tabstack` `quiver` `rival` `scout` `meetings` `code` `strategy`
+
+**Tabstack:** Standup and a design sync. Competitor landscape research, ICP mapping, and go-to-market sequencing work between sessions.
+
+**Tabstack Tech Writer:** Built the full technical content pipeline from scratch—SDK reference docs (TypeScript, Python, PHP), quickstarts, depth guides, SEO comparison pages against eight competitors, and example app tutorials. Four tiers of content shipped in a single evening sprint.
+
+**Scout:** Designed and specced a new prospect intelligence tool—find everything public about a person, track when it changes, reach out at the right moment. Full CRM data model designed: Accounts, Interactions, Events, Insights. Bridged to [Quiver](https://github.com/tessak22/quiver)'s shared database so prospect signals feed directly into the GTM workflow. 41 issues scoped.
+
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Intent detection, monthly pattern reports, in-app notifications, artifact grooming, and AI-powered context import all landed.
+
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Built a working demo—competitor intelligence brief rendered as a structured UI with section-by-section layouts for homepage, profile, reviews, blog, and more. Scan history page shipped. Scheduled daily scans deployed to Netlify with a background function that runs at 6am UTC.
+
+---
+
+### April 13
+`tabstack` `quiver` `rival` `meetings` `code` `strategy`
+
+**Tabstack:** Four meetings—an external call, standup and sprint planning, a design sync, a weekly 1:1 with manager, and a Product Hunt and growth engineering cross-share. Competitor landscape research, ICP mapping, and go-to-market sequencing work between sessions.
+
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Campaign detail improvements shipped—content tab added, archived artifacts hidden by default with a toggle, context import polished. MCP tool timeout bug fixed—notification fan-out was blocking responses. Marketing skills library updated from upstream.
+
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Code review and commit work in parallel.
+
+---
+
 ### April 12
 `tabstack` `quiver` `rival` `built-for-devs` `code`
 
@@ -48,7 +74,7 @@ Got the Rize MCP integration working end-to-end. Created `tessak22/changelog`.
 ### April 9
 `tabstack` `rival` `meetings` `strategy`
 
-**Tabstack:** Heavy meeting day—five back-to-back through the afternoon. GTM strategy and Q2 planning work alongside it. First full week deep in context.
+**Tabstack:** Heavy meeting day—five back-to-back through the afternoon. Competitor landscape research, messaging framework development, and Q2 GTM planning alongside it.
 
 **Rival:** Agent working through review feedback in parallel.
 
