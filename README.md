@@ -6,11 +6,20 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 
 ---
 
-**Filter by tag:** `tabstack` `quiver` `built-for-devs` `selah` `rival` `control-plane` `laravel` `statiq` `homeschool` `code` `strategy` `speaking` `meetings`
+**Filter by tag:** `tabstack` `tabstack-docs` `quiver` `built-for-devs` `selah` `rival` `control-plane` `laravel` `statiq` `homeschool` `code` `strategy` `speaking` `meetings`
 
 ---
 
 ## April 2026
+
+### April 15
+`tabstack` `tabstack-docs` `code` `strategy`
+
+**Tabstack:** Standup. Competitor landscape research, market analysis, and CRM approach work between sessions.
+
+**Tabstack Docs:** 25 new and rewritten content files across four PRs. 8 comparison pages—Firecrawl, Playwright, Browser Use, Browserbase, Steel, Stagehand, LangChain, and a Firecrawl alternative SEO landing page. 7 new guides covering schema design, effort levels, geotargeting, SSE streaming patterns, production reliability, MCP quickstart, and LangChain integration. 4 guide rewrites (SDK-first) plus a complete `/research` endpoint guide, competitor briefing agent example, orchestrator interactive pattern, MCP server overview, updated price monitor and job listings aggregator examples, and automate-events reference fixes.
+
+---
 
 ### April 14
 `tabstack` `quiver` `rival` `scout` `meetings` `code` `strategy`
@@ -39,7 +48,7 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 ---
 
 ### April 12
-`tabstack` `quiver` `rival` `built-for-devs` `code`
+`tabstack` `quiver` `rival` `code`
 
 **tessakriesel.com:** Built a full custom Ghost v6 theme from scratch—terminal aesthetic with VT323 and JetBrains Mono fonts, scanline overlay, ASCII easter egg, 27 theme files across 5 phases. Homepage with six sections (hero, currently, writing, speaking, about, subscribe). Post and page templates, speaking history feed with year filters, projects page, changelog page with git log styling, wall of love, contact, and a custom 404. Deployed to Fly.io on Ghost v6 with SQLite on a persistent volume. Built a GitHub changelog import script that pulls from tessak22/changelog, parses the markdown structure, converts to Ghost HTML, and uploads via Admin API with per-project color-coded tags.
 
