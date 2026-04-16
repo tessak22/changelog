@@ -17,7 +17,7 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 
 **Tabstack:** Standup. Competitor landscape research, market analysis, and CRM approach work between sessions.
 
-**Tabstack Docs:** 25 new and rewritten content files across four PRs. 8 comparison pages—Firecrawl, Playwright, Browser Use, Browserbase, Steel, Stagehand, LangChain, and a Firecrawl alternative SEO landing page. 7 new guides covering schema design, effort levels, geotargeting, SSE streaming patterns, production reliability, MCP quickstart, and LangChain integration. 4 guide rewrites (SDK-first) plus a complete `/research` endpoint guide, competitor briefing agent example, orchestrator interactive pattern, MCP server overview, updated price monitor and job listings aggregator examples, and automate-events reference fixes.
+**Tabstack Docs:** 25 new and rewritten content files across four PRs—comparison pages positioning Tabstack against direct competitors and common alternatives, new depth guides covering core API patterns and integration scenarios, SDK-first rewrites of existing guides, and updated reference documentation.
 
 ---
 
