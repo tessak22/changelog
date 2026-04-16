@@ -15,7 +15,7 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 ### April 15
 `tabstack` `tabstack-docs` `quiver` `code` `strategy`
 
-**Tabstack:** Standup. Competitor landscape research, market analysis, and CRM approach work between sessions. Researched email marketing and drip campaign strategies using the Resend API—exploring how to build journey-stage-based email automation into Quiver.
+**Tabstack:** Standup. Researched email marketing and drip campaign strategies using the Resend API—exploring how to build journey-stage-based email automation into Quiver.
 
 **Tabstack Docs:** 25 new and rewritten content files across four PRs—comparison pages positioning Tabstack against direct competitors and common alternatives, new depth guides covering core API patterns and integration scenarios, SDK-first rewrites of existing guides, and updated reference documentation.
 
