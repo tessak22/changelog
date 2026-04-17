@@ -12,6 +12,19 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 
 ## April 2026
 
+### April 16
+`tabstack` `tabstack-docs` `quiver` `rival` `meetings` `code`
+
+**Tabstack:** Standup and marketing coordination, website improvement and growth strategy review, and a 1:1. Reached out to a user who maxed out their free credits.
+
+**Tabstack Tech Writer:** Blog authoring skill shipped—voice profiles, audience segments, story shapes, headline formulas, content formats, messaging frameworks, quality criteria, and a 7-stage workflow pipeline. Editorial principles skill added— 10 principles governing external-publication content with a 6-step audit protocol. README refreshed. Wrote and refined two blog posts using the tech writer system, one written from scratch and one sourced from Outrank and refined for publication. Signed up for Outrank. Both posts queued for Medium and Dev.to.
+
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Netlify builds configured, dashboard refined, campaign documentation organized and synced, marketing campaign assets organized. Installable skills from GitHub shipped—settings UI, per-session skill selector, validation, payload optimization. Delete and archive hygiene pass—hard delete across artifacts, campaigns, sessions, and content; confirm dialogs; archived items hidden by default with an opt-in toggle; MCP dedupe guards; transaction fix on campaign delete.
+
+**Rival** ([tessak22/rival](https://github.com/tessak22/rival)): Fixed a broken CI step in GitHub Actions.
+
+---
+
 ### April 15
 `tabstack` `tabstack-docs` `quiver` `code` `strategy`
 
