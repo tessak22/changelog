@@ -12,6 +12,35 @@ I'm Tessa—Founding GTM Lead at [Tabstack](https://tabstack.io) (Mozilla-backed
 
 ## April 2026
 
+### April 19
+`selah` `code`
+
+**[Selah](https://selahlearn.com):** Steady Path K-12 curriculum engine completed—all three parts shipped and merged. Part 1: full-year generator engine, schema, YearGenerator service, async job queue, SetupSchoolYear UI, 132 new tests. Part 2: full K-12 PlatformResource library seeded— 94 resources, 427 template activities, ~600 standards pivot rows covering CCSS, NGSS, C3, SHAPE, ACTFL, NCAS, and NHES. Part 3: 9-12 ELA custom spine— 80 Gutenberg classics, 50 writing prompts, 11 rubric types, and a research paper scaffolder. Race condition closed on the year generator, step progress moved to a block-scoped table to prevent cross-student leakage. 1,894 tests, 17,329 assertions.
+
+---
+
+### April 18
+`tabstack` `selah` `scout` `code`
+
+**[Selah](https://selahlearn.com):** Spent the day planning the Steady Path curriculum track—researching and evaluating free K-12 resources across every subject and grade band to determine what gets built into Selah as the default homeschool curriculum. Decisions made on which resources to use and why across math, ELA, science, social studies, PE, art, music, foreign language, and Bible. That research became the foundation for the Steady Path engine that shipped on April 19. Fixed 22 baseline test failures. Activity steps PR merged—Instruct/Apply/Reinforce structure, cross-student step isolation fix, learning layer validation tightened.
+
+**Scout:** Quick-add flow fixed to skip the blank confirmation step and go straight to prospect detail.
+
+---
+
+### April 17
+`tabstack` `quiver` `scout` `selah` `meetings` `code` `strategy`
+
+**Tabstack:** External call. Locked LLM training content strategy and blog approach. Imported and organized the full product funnel—account and prospect data prepped for outreach and engagement.
+
+**Quiver** ([tessak22/quiver](https://github.com/tessak22/quiver)): Remote MCP endpoint exposed. Boundary-safe route matching fixed. Admin team management shipped.
+
+**Scout:** Account deduplication, unique constraint on admin email. Enrichment pipeline overhauled—throttled drain-queue script, skip guard for unresearchable prospects, auto-trigger removed from bulk paths. Suggest-and-verify workflow for prospects and accounts. Prospect-to-account linking. Edit Profile panel rebuilt. Signal feed and enrichment status fixes. Phase-2 and account enrichment moved to background functions.
+
+**[Selah](https://selahlearn.com):** Activity steps shipped—Instruct/Apply/Reinforce lesson structure, step statuses rolling up to block completion, per-step checklists on the daily board.
+
+---
+
 ### April 16
 `tabstack` `tabstack-docs` `quiver` `rival` `meetings` `code`
 
